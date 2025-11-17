@@ -43,11 +43,9 @@ while True:
         time.sleep(2)
 
 """ 
-    Add colors with colorama
-
-    Add ASCII graphics (quadrants)
-
-    Turn this into a mini coordinate system program
-
-    Make a GUI version
+    To do list for enhancements:
+        - Add colors with colorama
+        - Add ASCII graphics (quadrants)
+        - Turn this into a mini coordinate system program
+        - Make a GUI version
 """
